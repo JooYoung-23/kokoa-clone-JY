@@ -1,3 +1,3 @@
 # Kokoa clone - JY.ver
 
-First Achievement.
+Check Git is working.
