@@ -1,0 +1,29 @@
+.setting-screen {
+  margin-top: 60px;
+}
+
+.settings-list {
+  border-bottom: var(--main-border);
+  padding: 30px 0px 10px;
+}
+.settings-setting {
+  margin-bottom: 40px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.settings-setting i {
+  opacity: 0.9;
+}
+.settings-setting span {
+  margin-left: 10px;
+}
+.settings-column {
+  display: flex;
+  align-items: center;
+}
+.settings-column:last-child {
+  font-size: smaller;
+  opacity: 0.7;
+}

@@ -1,0 +1,22 @@
+.badge {
+  background-color: tomato;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+  top: -20px;
+  right: -10px;
+}
+.user-component__subtitle .badge__non-fill {
+  background-color: white;
+  border: 1px solid tomato;
+  color: tomato;
+  width: 12px;
+  height: 12px;
+  font-size: 12px;
+  margin-left: 5px;
+}
