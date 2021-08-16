@@ -1,12 +1,12 @@
 .chat-screen {
-  background-color: #abc1d1;
+  background-color: #abd1c1;
   margin-top: 60px;
   height: 500vh;
 }
 
 .chat-screen .status-bar,
 .chat-screen .alt-header {
-  background-color: #abc1d1;
+  background-color: #abd1c1;
 }
 
 @keyframes fadeIn {
